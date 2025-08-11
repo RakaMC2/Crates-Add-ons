@@ -17,3 +17,6 @@ Add-ons Gacha Work At Version 1.21.90+
 - **Made By RakaMC**
 - **Crates System By Jrxx**
 - **Model By VinnCH**
+
+# ‼️Link Download
+https://www.mediafire.com/file/sm29iz37ud5b9az/KeyCrates.mcaddon/file
